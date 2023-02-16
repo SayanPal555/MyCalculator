@@ -1,0 +1,54 @@
+.heading{
+    text-align: center;
+    margin: 20px;
+    padding: 6px;
+}
+
+.box{
+   /* background-color: aqua; */
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    width: 300px 0;
+    background-color: aquamarine;
+    font: 1em sans-serif;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    width: 268px;
+    font-size: 30px;
+    margin: 0;
+    padding: 10px 0;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+
+}
+
+.btn{
+    width: 60px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: blanchedalmond;
+    text-shadow: 3px;
+    color: black;
+}
+
+.btn1{
+    width: 262px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(236, 49, 49);
+    text-shadow: 3px;
+    color: white;
+}
